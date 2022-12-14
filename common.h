@@ -2,6 +2,7 @@
 #define __COMMON_H__
 
 #include <stdio.h>
+#include <stdint.h>
 #define ROWS 26
 #define COLS 26
 
